@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2024-06-29T03:15:24.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rr32nHNN5u4TNfXYIAQX" version="24.6.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1157" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Define our result as a list" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="95" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-1" target="ZKGIt3d5ThGrLlncizaW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-1" value="Begin our &#39;while&#39; statement to create scenarios for program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="90" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-3" value="If the number of letters for start or end are greater then one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="220" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-5" value="Print a statement to let the user know to limit start and end to one letter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="220" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-8" value="if the input for start and and are not alphabetical characters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="360" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-10" value="print a statement to let the user know to enter only alphabetical characters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="360" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-13" value="if the start input letter is farther down the alphabet then the end letter." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="500" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKGIt3d5ThGrLlncizaW-15" target="ZKGIt3d5ThGrLlncizaW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="525" />
+              <mxPoint x="820" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-15" value="print a statement letting the user know that the letter has to chome in order from the alphabet, no z before a for example" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="500" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKGIt3d5ThGrLlncizaW-17" value="while current is less than the end.&amp;nbsp; Our result will be attached to the current statement at the end using append command.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="650" width="310" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
