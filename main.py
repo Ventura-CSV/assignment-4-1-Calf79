@@ -22,7 +22,6 @@ def main():
             result.append(current)
             current = chr(ord(current)+1)
         print(''.join(result))
-        break
     """
     ########################################
     Code Your Program here
